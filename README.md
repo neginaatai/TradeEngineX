@@ -29,9 +29,8 @@ IDE: IntelliJ / VS Code / Eclipse
 
 
 Future Improvements
-. Add multiple stock tickers
-Charting for price history
+Support for multiple stock tickers
+Price history charting and visual analytics
 User authentication system
-REST API backend
-
-Trading statistics dashboard
+REST API backend for external integrations
+Advanced trading statistics dashboard
