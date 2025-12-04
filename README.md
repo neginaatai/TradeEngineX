@@ -28,17 +28,7 @@ IDE: IntelliJ / VS Code / Eclipse
 
 
 
-How to Run
-1.Clone the repository:
-
-git clone https://github.com/neginaatai/TradeMatrix.git
-
-2.Open the project in your preferred IDE:
-3.Run the Main.java file:
-4.The GUI will launch immediately:
-
-
-📘 Future Improvements
+Future Improvements
 Add multiple stock tickers
 Charting for price history
 User authentication system
