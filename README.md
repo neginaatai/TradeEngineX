@@ -33,9 +33,9 @@ How to Run
 
 git clone https://github.com/neginaatai/TradeMatrix.git
 
-2.Open the project in your preferred IDE.
-3.Run the Main.java file.
-4.The GUI will launch immediately.
+2.Open the project in your preferred IDE:
+3.Run the Main.java file:
+4.The GUI will launch immediately:
 
 
 📘 Future Improvements
