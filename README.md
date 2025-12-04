@@ -20,3 +20,21 @@ IDE: IntelliJ / VS Code / Eclipse
 <img width="500" height="590" alt="Screenshot 2025-12-04 at 4 43 35 PM" src="https://github.com/user-attachments/assets/37e2cad8-e595-4686-9c6d-0a8caa86011b" />
 
 <img width="500" height="590" alt="Screenshot 2025-12-04 at 4 43 44 PM" src="https://github.com/user-attachments/assets/db02982e-fd62-4cb2-b6a3-9e9d3e6a06ec" />
+
+
+How to Run
+1.Clone the repository:
+
+git clone https://github.com/neginaatai/TradeMatrix.git
+
+2.Open the project in your preferred IDE.
+3.Run the Main.java file.
+4.The GUI will launch immediately.
+
+
+📘 Future Improvements
+Add multiple stock tickers
+Charting for price history
+User authentication system
+REST API backend
+Trading statistics dashboard
