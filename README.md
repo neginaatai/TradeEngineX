@@ -22,6 +22,8 @@ IDE: IntelliJ / VS Code / Eclipse
 <img width="500" height="590" alt="Screenshot 2025-12-04 at 4 43 44 PM" src="https://github.com/user-attachments/assets/db02982e-fd62-4cb2-b6a3-9e9d3e6a06ec" />
 
 
+
+
 How to Run
 1.Clone the repository:
 
@@ -37,4 +39,5 @@ Add multiple stock tickers
 Charting for price history
 User authentication system
 REST API backend
+
 Trading statistics dashboard
