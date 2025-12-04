@@ -29,7 +29,7 @@ IDE: IntelliJ / VS Code / Eclipse
 
 
 Future Improvements
-Add multiple stock tickers
+. Add multiple stock tickers
 Charting for price history
 User authentication system
 REST API backend
